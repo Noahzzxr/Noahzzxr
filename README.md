@@ -1,60 +1,156 @@
-<h1 data-importer="text" align="left">Hey, I'm Noah! 👨‍💻</h1>
+<h1 align="left">Hey, I'm Noah! 👨‍💻</h1>
 
 ###
 
-<div class="tenor-gif-embed" data-postid="8098583" data-share-method="host" data-aspect-ratio="1.25758" data-width="100%"><a href="https://tenor.com/view/umbreon-pokemon-yawn-gif-8098583">Umbreon Pokemon GIF</a>from <a href="https://tenor.com/search/umbreon-gifs">Umbreon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img
+  align="right"
+  width="260"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding GIF"
+/>
+
+<p align="left">
+  👋 Hi, I'm a Front-end Developer from Brazil 🇧🇷 and a student of Systems Analysis and Development (ADS) at SENAI.
+  <br><br>
+
+  🛠️ <b>Technologies & Tools:</b>
+  <br>
+  HTML | CSS | JavaScript | Git | GitHub
+
+  <br><br>
+
+  📚 <b>Currently Learning:</b>
+  <br>
+  Back-end Development
+  <br>
+  Microsoft Azure (Cloud)
+  <br>
+  Microsoft AI Tools
+  <br>
+  Advanced JavaScript
+</p>
+
+<br clear="both">
 
 ###
 
-<p data-importer="text" align="left">👋 Hi, I'm a Front-end Developer from Brazil 🇧🇷 and a student of Systems Analysis and Development (ADS) at SENAI.<br><br>🛠️ Technologies & Tools:<br>HTML | CSS | JavaScript | Git | GitHub<br><br>📚 Currently Learning:<br>Back-end Development<br>Microsoft Azure (Cloud)<br>Microsoft AI Tools<br>Advanced JavaScript</p>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Noahzzxr/Noahzzxr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Noahzzxr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false"
+    height="150"
+    alt="Noah GitHub Stats"
+  />
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="44"
+    alt="HTML5"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="44"
+    alt="CSS3"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="44"
+    alt="JavaScript"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="typescript logo"  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    height="44"
+    alt="TypeScript"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="44"
+    alt="Python"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    height="44"
+    alt="MySQL"
+  />
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
-<div data-importer="socials" align="center">
+<div align="center">
+
   <a href="https://www.instagram.com/noahtsnx?igsh=dXAwN2cydnd3MXpk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Instagram"
+    />
   </a>
-  <a href="noahferreiiraa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="mailto:noahferreiiraa@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Gmail"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/noah-ben-ferreira-257924349/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://discord.com/ruffzxr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Discord"
+    />
   </a>
+
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Noahzzxr/Noahzzxr/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Noahzzxr/Noahzzxr/output/github-contribution-grid-snake-dark.svg"
+  />
 
-###
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Noahzzxr/Noahzzxr/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Noahzzxr/Noahzzxr/output/github-contribution-grid-snake.svg"
+  />
+</picture>
