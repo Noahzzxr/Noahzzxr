@@ -2,7 +2,7 @@ name: Generate stats card
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -11,24 +11,21 @@ on:
       - ".github/workflows/stats.yml"
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate stats.svg
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=false
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
 
       - name: Commit stats card
         run: |
