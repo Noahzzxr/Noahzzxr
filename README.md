@@ -2,8 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/CYIrPm5ernwAAAAd/umbreon-pokemon.gif" alt="Umbreon Pokemon GIF" />
-
+<img align="right" height="150" src="https://media.tenor.com/3bL8wM7KxQAAAAAd/tenor.gif" alt="Princess Luna MLP GIF" />
 ###
 
 <p data-importer="text" align="left">👋 Hi, I'm a Front-end Developer from Brazil 🇧🇷 and a student of Systems Analysis and Development (ADS) at SENAI.<br><br>🛠️ Technologies & Tools:<br>HTML | CSS | JavaScript | Python | PowerBI | Git | GitHub<br><br>📚 Currently Learning:<br>Back-end Development<br>Microsoft Azure (Cloud)<br>Microsoft AI Tools<br>Advanced JavaScript</p>
