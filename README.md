@@ -1,6 +1,5 @@
 <h1 data-importer="text" align="left">Hey, I'm Noah! 👨‍💻</h1>
 
-###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/9y3STsWeHTsAAAAd/blep-mlp-luna-tounge.gif" alt="Princess Luna MLP GIF" />
 ###
